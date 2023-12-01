@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou o João Victor 👋
 
 <!--
 **Joaovictor2005/joaovictor2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joão-victor-oliveira-03b14b275" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jo%C3%A3o-victor-oliveira-03b14b275?trk=profile-badge">João Victor Oliveira</a></div>
+              
