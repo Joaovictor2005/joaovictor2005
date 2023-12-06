@@ -10,7 +10,7 @@
 
 📚 Estou aprofudando meus conhecimentos no universo JavaScript, focando principalmente em NodeJs e React. E também tenho mergulhado no mundo DevOps, com o AWS
 
-Atualmente venho trabalhando em projetos pessoais, aprimorando meus conhecimentos e realizando projetos freelancer (Estou disponível para contatos 😄 )
+🎯 Atualmente venho trabalhando em projetos pessoais, aprimorando meus conhecimentos e realizando projetos freelancer (Estou disponível para contatos 😄 )
 
 👨‍🏫 Possuo o curso técnico em Desenvolvimento de Sistemas pelo IFPA - Belém, onde pude aprender bastante sobre o mundo da programação, aprender a trabalhar em grupo e a ter contato com pessoas incríveis  
 
