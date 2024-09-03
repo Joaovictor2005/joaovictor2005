@@ -6,7 +6,7 @@
 
 <h3>Back-End Developer | NodeJs</h3>
 
-👨‍💻 Tenho 18 anos, natural de Belém/Pa. Sou um entusiasta de tecnologia, gosto de mergulhar em novas linguagens e sempre disposto a buscar mais conhecimento.
+👨‍💻 Tenho 19 anos, natural de Belém/Pa. Sou um entusiasta de tecnologia, gosto de mergulhar em novas linguagens e sempre disposto a buscar mais conhecimento.
 
 📚 Estou aprofudando meus conhecimentos no universo JavaScript, focando principalmente em NodeJs e React. E também tenho mergulhado no mundo DevOps, com o AWS
 
